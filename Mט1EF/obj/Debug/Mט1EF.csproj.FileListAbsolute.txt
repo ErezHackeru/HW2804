@@ -1,0 +1,12 @@
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\Mט1EF.exe.config
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\Mט1EF.exe
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\Mט1EF.pdb
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\obj\Debug\Mט1EF.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\obj\Debug\Mט1EF.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\obj\Debug\Mט1EF.exe
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\obj\Debug\Mט1EF.pdb
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Projects\CourseHackerU\Mט1EF\Mט1EF\obj\Debug\Mט1EF.csproj.CopyComplete
